@@ -18,8 +18,8 @@
 <img align="left" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 <img align="left" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
-<img align="left" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></br></br>
+<img align="left" width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+<img align="left" width=60px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></br></br>
 
 ## My Workspace:
 <img height=50 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"></br>
