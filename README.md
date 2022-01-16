@@ -11,7 +11,7 @@
 
 📫 How to reach me: <a href="mailto:kevinfeng.cs88@gmail.com">kevinfeng.cs88@gmail.com</a>
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinfengcs88&bg_color=90,01000f,1c1c1c&title_color=fd5dff&text_color=83fff5)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 <img align="left" width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
