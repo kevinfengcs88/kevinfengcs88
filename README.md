@@ -1,3 +1,5 @@
+<div align="center">
+
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kevin
 
 [![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://kevinfeng.ga/)
@@ -41,3 +43,5 @@
 - [Six Degrees of Separation’s New Form: The Wikipedia Speedrun](https://medium.com/nerd-for-tech/six-degrees-of-separations-new-form-the-wikipedia-speedrun-cdceeac3ada6?source=rss-952aa1b4a284------2)
 - [Morse Code — Learning Something “Useless”?](https://medium.com/the-shadow/morse-code-learning-something-useless-9c0d97891960?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
+
+</div>
