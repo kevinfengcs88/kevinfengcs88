@@ -39,9 +39,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pseudocode: Breaking Free of Tutorial Sites](https://kevinfeng-cs88.medium.com/pseudocode-breaking-free-of-tutorial-sites-329ecd22efc4?source=rss-952aa1b4a284------2)
 - [We Will Always Be Apes: Return to Monke](https://kevinfeng-cs88.medium.com/we-will-always-be-apes-return-to-monke-38f4848961f3?source=rss-952aa1b4a284------2)
 - [Wim Hof: The Real Life Demon Slayer](https://kevinfeng-cs88.medium.com/wim-hof-the-real-life-demon-slayer-cacecd9f769?source=rss-952aa1b4a284------2)
 - [My First Week with Apollo](https://kevinfeng-cs88.medium.com/my-first-week-with-apollo-658ad5824134?source=rss-952aa1b4a284------2)
 - [Six Degrees of Separation’s New Form: The Wikipedia Speedrun](https://medium.com/nerd-for-tech/six-degrees-of-separations-new-form-the-wikipedia-speedrun-cdceeac3ada6?source=rss-952aa1b4a284------2)
-- [Morse Code — Learning Something “Useless”?](https://medium.com/the-shadow/morse-code-learning-something-useless-9c0d97891960?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
