@@ -14,6 +14,6 @@ jobs:
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://www.rssmix.com/u/13565005/rss.xml"
+          feed_list: "https://kevinfeng-cs88.medium.com/feed"
       - name: Keep workflow alive
         uses: gautamkrishnar/keepalive-workflow@master
