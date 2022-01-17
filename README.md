@@ -8,7 +8,6 @@
 :computer: I love PC building and computer hardware</br>
 :video_game: I'm an avid gamer</br>
 :shower: Fun fact: I take cold showers
-
 :mailbox: How to reach me: <a href="mailto:kevinfeng.cs88@gmail.com">kevinfeng.cs88@gmail.com</a>
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
