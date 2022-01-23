@@ -3,6 +3,7 @@
 
 [![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://kevinfeng.ga/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
 
 :school: Currently studying Computer Science at Rutgers University, NJ</br>
 :fountain_pen: I have a passion for creative writing</br>
@@ -15,20 +16,23 @@
 | ------------- | ------------- |
 
 ## Languages and Tools:
-<img align=left width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img align=left width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">
-<img align=left width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
-<img align=left width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align=left width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align=left width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img align=left width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align=left width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align=left width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
-<img align=left width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
-<img align=left width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">
-<img align=left width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
+<div>
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;
+  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+  <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
+  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
+</div>
 
-</br></br>
+</br>
 
 ## My Workspace:
 <img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"></br>
