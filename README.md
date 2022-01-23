@@ -27,12 +27,7 @@
 <img align=left width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
 <img align=left width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">
 <img align=left width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-</br>
-<img align=left width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-<img align=left width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-<img align=left width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-<img align=left width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-<img align=left width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
+
 </br></br>
 
 ## My Workspace:
