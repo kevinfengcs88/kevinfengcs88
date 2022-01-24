@@ -15,6 +15,8 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey)](https://github.com/kevinfengcs88/kahoot-monkey)
+
 ## Languages and Tools:
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
@@ -31,8 +33,6 @@
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
-
-</br>
 
 ## My Workspace:
 <img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"></br>
