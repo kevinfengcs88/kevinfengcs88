@@ -19,7 +19,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=github_dark)](https://github.com/kevinfengcs88/wavedash)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=crud-list&theme=github_dark)](https://github.com/kevinfengcs88/crud-list)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfeng.ga&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=monkaly&theme=github_dark)](https://github.com/kevinfengcs88/monkaly)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=python-projects&theme=github_dark)](https://github.com/kevinfengcs88/python-projects)
