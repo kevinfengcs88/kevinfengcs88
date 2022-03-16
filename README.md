@@ -18,10 +18,10 @@
 ## Top repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=github_dark)](https://github.com/kevinfengcs88/wavedash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=vim-guide&theme=github_dark)](https://github.com/kevinfengcs88/vim-guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfeng.ga&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=monkaly&theme=github_dark)](https://github.com/kevinfengcs88/monkaly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=python-projects&theme=github_dark)](https://github.com/kevinfengcs88/python-projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=osrs-projects&theme=github_dark)](https://github.com/kevinfengcs88/osrs-projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=piercetheheavens.ga&theme=github_dark)](https://github.com/kevinfengcs88/piercetheheavens.ga)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
