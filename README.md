@@ -64,9 +64,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio Code? More like Vim Studio Code](https://kevinfeng-cs88.medium.com/visual-studio-code-more-like-vim-studio-code-95b6dafcadc?source=rss-952aa1b4a284------2)
 - [Gurren Lagann and Plato’s Allegory of the Cave](https://kevinfeng-cs88.medium.com/gurren-lagann-and-platos-allegory-of-the-cave-ac37bab02154?source=rss-952aa1b4a284------2)
 - [Creating a Killer GitHub Profile README](https://kevinfeng-cs88.medium.com/creating-a-killer-github-profile-readme-83671406f5cf?source=rss-952aa1b4a284------2)
 - [Maintaining the Wim Hof Method: Discipline and Escalation](https://kevinfeng-cs88.medium.com/maintaining-the-wim-hof-method-discipline-and-escalation-a33adc507c4e?source=rss-952aa1b4a284------2)
 - [Pseudocode: Breaking Free of Tutorial Sites](https://kevinfeng-cs88.medium.com/pseudocode-breaking-free-of-tutorial-sites-329ecd22efc4?source=rss-952aa1b4a284------2)
-- [We Will Always Be Apes: Return to Monke](https://kevinfeng-cs88.medium.com/we-will-always-be-apes-return-to-monke-38f4848961f3?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
