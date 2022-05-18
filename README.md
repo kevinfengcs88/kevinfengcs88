@@ -64,9 +64,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Watching SpongeBob in Your Terminal](https://kevinfeng-cs88.medium.com/watching-spongebob-in-your-terminal-3c5a1b2477f?source=rss-952aa1b4a284------2)
 - [One Year of Wim Hof](https://kevinfeng-cs88.medium.com/one-year-of-wim-hof-104d70e2c25b?source=rss-952aa1b4a284------2)
 - [Gurren Lagann: The Meaning of Life](https://kevinfeng-cs88.medium.com/gurren-lagann-the-meaning-of-life-b9b761af5f4d?source=rss-952aa1b4a284------2)
 - [Dominance vs. Aggression: I’d Rather Face a Gorilla than a Chimp in a “Fight”](https://kevinfeng-cs88.medium.com/dominance-vs-aggression-id-rather-face-a-gorilla-than-a-chimp-in-a-fight-460b03dd6770?source=rss-952aa1b4a284------2)
 - [Why are Humans So Good at Throwing?](https://kevinfeng-cs88.medium.com/why-are-humans-so-good-at-throwing-3ca617b74591?source=rss-952aa1b4a284------2)
-- [Visual Studio Code? More like Vim Studio Code](https://kevinfeng-cs88.medium.com/visual-studio-code-more-like-vim-studio-code-95b6dafcadc?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
