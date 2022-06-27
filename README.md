@@ -65,9 +65,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are GPU Prices Finally Back to Normal?](https://kevinfeng-cs88.medium.com/are-gpu-prices-finally-back-to-normal-f22d43f7bdeb?source=rss-952aa1b4a284------2)
 - [The Best Typing Website](https://kevinfeng-cs88.medium.com/the-best-typing-website-f717b81604ef?source=rss-952aa1b4a284------2)
 - [When Fictional Videogame Economies Outperform Third World Socialist Ones: The Tale of Venezuelan…](https://kevinfeng-cs88.medium.com/when-fictional-videogame-economies-outperform-third-world-socialist-ones-the-tale-of-venezuelan-d146d6c0919b?source=rss-952aa1b4a284------2)
 - [Watching SpongeBob in Your Terminal](https://kevinfeng-cs88.medium.com/watching-spongebob-in-your-terminal-3c5a1b2477f?source=rss-952aa1b4a284------2)
 - [One Year of Wim Hof](https://kevinfeng-cs88.medium.com/one-year-of-wim-hof-104d70e2c25b?source=rss-952aa1b4a284------2)
-- [Gurren Lagann: The Meaning of Life](https://kevinfeng-cs88.medium.com/gurren-lagann-the-meaning-of-life-b9b761af5f4d?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
