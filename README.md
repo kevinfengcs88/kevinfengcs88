@@ -65,7 +65,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Git and GitHub](https://medium.com/swlh/getting-started-with-git-and-github-2b9a86df6d9f?source=rss-952aa1b4a284------2)
+- [Getting Started with Git and GitHub](https://medium.com/nerd-for-tech/getting-started-with-git-and-github-2b9a86df6d9f?source=rss-952aa1b4a284------2)
 - [Getting a Perfect Score in Kahoot! With the Power of Node.js](https://kevinfeng-cs88.medium.com/getting-a-perfect-score-in-kahoot-with-the-power-of-node-js-a440bc69dca3?source=rss-952aa1b4a284------2)
 - [Are GPU Prices Finally Back to Normal?](https://kevinfeng-cs88.medium.com/are-gpu-prices-finally-back-to-normal-f22d43f7bdeb?source=rss-952aa1b4a284------2)
 - [The Best Typing Website](https://kevinfeng-cs88.medium.com/the-best-typing-website-f717b81604ef?source=rss-952aa1b4a284------2)
