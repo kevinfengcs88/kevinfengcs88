@@ -65,9 +65,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Your First Open Source Contribution](https://kevinfeng-cs88.medium.com/making-your-first-open-source-contribution-aad6ee5174c?source=rss-952aa1b4a284------2)
 - [3 Quick Tricks for Programmers on Windows](https://kevinfeng-cs88.medium.com/3-quick-tricks-for-programmers-on-windows-f6d67fd5f302?source=rss-952aa1b4a284------2)
 - [How I Made a Discord Bot that Remotely Starts a Game Server](https://kevinfeng-cs88.medium.com/how-i-made-a-discord-bot-that-remotely-starts-a-game-server-d87292fcacfd?source=rss-952aa1b4a284------2)
 - [Getting Started with Git and GitHub](https://medium.com/nerd-for-tech/getting-started-with-git-and-github-2b9a86df6d9f?source=rss-952aa1b4a284------2)
 - [Getting a Perfect Score in Kahoot! With the Power of Node.js](https://kevinfeng-cs88.medium.com/getting-a-perfect-score-in-kahoot-with-the-power-of-node-js-a440bc69dca3?source=rss-952aa1b4a284------2)
-- [Are GPU Prices Finally Back to Normal?](https://kevinfeng-cs88.medium.com/are-gpu-prices-finally-back-to-normal-f22d43f7bdeb?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
