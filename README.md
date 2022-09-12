@@ -65,9 +65,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Going into the Depths: A Plunge into Glacial Melt](https://kevinfeng-cs88.medium.com/going-into-the-depths-a-plunge-into-glacial-melt-de51fc2ef976?source=rss-952aa1b4a284------2)
 - [Avoiding LeetCode Forums](https://medium.com/nerd-for-tech/avoiding-leetcode-forums-5a052ecf25c0?source=rss-952aa1b4a284------2)
 - [Making Your First Open Source Contribution](https://kevinfeng-cs88.medium.com/making-your-first-open-source-contribution-aad6ee5174c?source=rss-952aa1b4a284------2)
 - [3 Quick Tricks for Programmers on Windows](https://kevinfeng-cs88.medium.com/3-quick-tricks-for-programmers-on-windows-f6d67fd5f302?source=rss-952aa1b4a284------2)
 - [How I Made a Discord Bot that Remotely Starts a Game Server](https://kevinfeng-cs88.medium.com/how-i-made-a-discord-bot-that-remotely-starts-a-game-server-d87292fcacfd?source=rss-952aa1b4a284------2)
-- [Getting Started with Git and GitHub](https://medium.com/nerd-for-tech/getting-started-with-git-and-github-2b9a86df6d9f?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
