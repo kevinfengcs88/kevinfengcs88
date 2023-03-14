@@ -65,9 +65,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring Neovim from Scratch + Setting up Ubuntu](https://medium.com/nerd-for-tech/configuring-neovim-from-scratch-setting-up-ubuntu-3eb8135e5a71?source=rss-952aa1b4a284------2)
 - [The Animal that Smells Like Popcorn](https://kevinfeng-cs88.medium.com/the-animal-that-smells-like-popcorn-601e1129730b?source=rss-952aa1b4a284------2)
 - [How the GitHub Copilot Lawsuit is Going So Far](https://kevinfeng-cs88.medium.com/how-the-github-copilot-lawsuit-is-going-so-far-ea778a7f5767?source=rss-952aa1b4a284------2)
 - [What Type of Protein Powder is Best?](https://kevinfeng-cs88.medium.com/what-type-of-protein-powder-is-best-54ee14b43ad0?source=rss-952aa1b4a284------2)
 - [Even if I sacrifice my body, I will never sacrifice my honor.](https://kevinfeng-cs88.medium.com/even-if-i-sacrifice-my-body-i-will-never-sacrifice-my-honor-da4ae66d76dd?source=rss-952aa1b4a284------2)
-- [Going into the Depths: A Plunge into Glacial Melt](https://kevinfeng-cs88.medium.com/going-into-the-depths-a-plunge-into-glacial-melt-de51fc2ef976?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
