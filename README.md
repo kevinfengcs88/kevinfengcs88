@@ -39,6 +39,23 @@
   <img width=50px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">&nbsp;&nbsp;&nbsp;
 </div>
 
+## Currently learning:
+<div>
+  <img width=50px src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png">&nbsp;&nbsp;&nbsp;
+</div>
+
+## Looking to learn:
+<div>
+  <img width=50px src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png">&nbsp;&nbsp;&nbsp;
+</div>
+
 </br>
 
 ## My Workspace:
