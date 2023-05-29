@@ -12,8 +12,7 @@
 :shower: Fun fact: I take cold showers</br>
 :mailbox: How to reach me: <a href="mailto:kevinfeng.cs88@gmail.com">kevinfeng.cs88@gmail.com</a>
 
-| <img src="https://github.com/kevinfengcs88/leetcode/assets/80129996/9f24c6e7-f0ac-4dad-a279-43e90e41d188" height=250px width=250px> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=donut&hide=html,jupyter%20notebook,css&hide_border=true&langs_count=6"/></a> |
-| --- | --- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=donut&hide=html,jupyter%20notebook,css&hide_border=true&langs_count=6"/></a>
 
 ## Top repositories
 
