@@ -12,17 +12,17 @@
 :shower: Fun fact: I take cold showers</br>
 :mailbox: How to reach me: <a href="mailto:kevinfeng.cs88@gmail.com">kevinfeng.cs88@gmail.com</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=donut&hide=html,jupyter%20notebook,css&hide_border=true&langs_count=6"/></a>
+[![Top Langs](https://github-readme-stats-kevinfengcs88.vercel.app/api/top-langs/?username=kevinfengcs88&theme=discord_old_blurple&layout=compact&hide=html,jupyter%20notebook,css&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfengcs88&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/kevinfengcs88)
 
 ## Top repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=github_dark)](https://github.com/kevinfengcs88/wavedash)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=emu-bot&theme=github_dark)](https://github.com/kevinfengcs88/emu-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=neovim-config&theme=github_dark)](https://github.com/kevinfengcs88/neovim-config)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=MonkeyStock&theme=github_dark)](https://github.com/kevinfengcs88/MonkeyStock)
-
+[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/wavedash)
+[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=emu-bot&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/emu-bot)
+[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=neovim-config&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/neovim-config)
+[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/kahoot-monkey)
+[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/morse-learner)
+[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=MonkeyStock&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/MonkeyStock)
 
 ## Languages and Tools:
 <div>
