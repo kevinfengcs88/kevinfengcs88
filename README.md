@@ -71,9 +71,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Windows Subsystem for Linux &lpar;without Microsoft Store&rpar;](https://medium.com/nerd-for-tech/setting-up-windows-subsystem-for-linux-without-microsoft-store-f85571c1b819?source=rss-952aa1b4a284------2)
 - [Neovim, but it’s in Windows](https://medium.com/nerd-for-tech/neovim-but-its-in-windows-f39f181afaf9?source=rss-952aa1b4a284------2)
 - [I Can’t Seem to Quit Vim](https://medium.com/nerd-for-tech/i-cant-seem-to-quit-vim-a9dd29e58269?source=rss-952aa1b4a284------2)
 - [Make Your Ubuntu Terminal Look *Scintillating*](https://medium.com/nerd-for-tech/make-your-ubuntu-terminal-look-scintillating-20792cbb85dd?source=rss-952aa1b4a284------2)
 - [Configuring Neovim from Scratch + Setting up Ubuntu](https://medium.com/nerd-for-tech/configuring-neovim-from-scratch-setting-up-ubuntu-3eb8135e5a71?source=rss-952aa1b4a284------2)
-- [The Animal that Smells Like Popcorn](https://kevinfeng-cs88.medium.com/the-animal-that-smells-like-popcorn-601e1129730b?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
