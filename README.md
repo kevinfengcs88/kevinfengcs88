@@ -40,7 +40,7 @@
   <img width=50px src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png">&nbsp;&nbsp;&nbsp;
 </div>
-[]: # (This is a comment)
+
 ## Currently learning:
 <div>
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png">&nbsp;&nbsp;&nbsp;
