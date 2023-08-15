@@ -7,7 +7,6 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
-:office: DevOps intern at NBCUniversal's Media Tech Program for the summer of 2023</br>
 :school: Currently studying Computer Science at Rutgers University, NJ</br>
 :fountain_pen: I have a passion for creative writing</br>
 :computer: I use Neovim for editing code</br>
