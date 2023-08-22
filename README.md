@@ -48,6 +48,7 @@
   <img width=50px src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">&nbsp;&nbsp;&nbsp;
 </div>
 
 ## My Workspace:
