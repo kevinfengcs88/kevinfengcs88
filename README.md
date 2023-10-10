@@ -7,7 +7,6 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
-:office: DevOps intern at NBCUniversal's Media Tech Program for the summer of 2023</br>
 :school: Currently studying Computer Science at Rutgers University, NJ</br>
 :fountain_pen: I have a passion for creative writing</br>
 :computer: I use Neovim for editing code</br>
@@ -29,7 +28,6 @@
 
 ## Languages and Tools:
 <div>
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png">&nbsp;&nbsp;&nbsp;
@@ -41,17 +39,17 @@
   <img width=50px src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png">&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Currently learning:
 <div>
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png">&nbsp;&nbsp;&nbsp;
 </div>
 
 ## My Workspace:
@@ -68,9 +66,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tic-tac-Go: A Gopher’s Approach to the Minimax Algorithm](https://kevinfeng-cs88.medium.com/tic-tac-go-a-gophers-approach-to-the-minimax-algorithm-1cb9433ae3cf?source=rss-952aa1b4a284------2)
+- [Overhauling my Neovim LSP and lazy.nvim configurations](https://kevinfeng-cs88.medium.com/overhauling-my-neovim-lsp-and-lazy-nvim-configurations-605eaa908b62?source=rss-952aa1b4a284------2)
 - [Setting up Windows Subsystem for Linux &lpar;without Microsoft Store&rpar;](https://medium.com/nerd-for-tech/setting-up-windows-subsystem-for-linux-without-microsoft-store-f85571c1b819?source=rss-952aa1b4a284------2)
 - [Neovim, but it’s in Windows](https://medium.com/nerd-for-tech/neovim-but-its-in-windows-f39f181afaf9?source=rss-952aa1b4a284------2)
 - [I Can’t Seem to Quit Vim](https://medium.com/nerd-for-tech/i-cant-seem-to-quit-vim-a9dd29e58269?source=rss-952aa1b4a284------2)
-- [Make Your Ubuntu Terminal Look *Scintillating*](https://medium.com/nerd-for-tech/make-your-ubuntu-terminal-look-scintillating-20792cbb85dd?source=rss-952aa1b4a284------2)
-- [Configuring Neovim from Scratch + Setting up Ubuntu](https://medium.com/nerd-for-tech/configuring-neovim-from-scratch-setting-up-ubuntu-3eb8135e5a71?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
