@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=550&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <br>
 ![gopher dancing](./dancing-gopher.gif)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> Hi there, I'm Kevin
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> 
+# [Hi there, I'm Kevin](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
 [![Website](https://img.shields.io/badge/Website-663399?style=for-the-badge&link=https://github.com/kevinfengcs88/kevinfengcs88)](https://kevinfengcs88.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
@@ -27,6 +28,7 @@
 [![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=MonkeyStock&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/MonkeyStock)
 
 ## Languages and Tools:
+
 <div>
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;&nbsp;&nbsp;
@@ -47,6 +49,7 @@
 </div>
 
 ## My Workspace:
+
 [<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows?r=1)</br>
 [<img height=40 src="https://img.shields.io/badge/Zen%203-Ryzen%205600X-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)</br>
 [<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 16 GB-%23ffd900?style=for-the-badge&logo=corsair">](https://www.corsair.com/us/en/Categories/Products/Memory/Vengeance-PRO-RGB-Black/p/CMW16GX4M2C3200C16)</br>
@@ -59,6 +62,7 @@
 ---
 
 ## 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Tic-tac-Go: A Gopher’s Approach to the Minimax Algorithm](https://kevinfeng-cs88.medium.com/tic-tac-go-a-gophers-approach-to-the-minimax-algorithm-1cb9433ae3cf?source=rss-952aa1b4a284------2)
 - [Overhauling my Neovim LSP and lazy.nvim configurations](https://kevinfeng-cs88.medium.com/overhauling-my-neovim-lsp-and-lazy-nvim-configurations-605eaa908b62?source=rss-952aa1b4a284------2)
