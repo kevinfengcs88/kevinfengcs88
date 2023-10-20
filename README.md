@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=550&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <br>
 ![gopher dancing](./dancing-gopher.gif)
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> 
-# [Hi there, I'm Kevin](https://www.linkedin.com/in/kevin-feng-87a174202/)
+
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px">[Hi there, I'm Kevin](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
 [![Website](https://img.shields.io/badge/Website-663399?style=for-the-badge&link=https://github.com/kevinfengcs88/kevinfengcs88)](https://kevinfengcs88.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats-kevinfengcs88.vercel.app/api/top-langs/?username=kevinfengcs88&theme=discord_old_blurple&layout=compact&hide=html,jupyter%20notebook,css,shell&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfengcs88&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/kevinfengcs88)
 
-## Top repositories
+## [Top repositories](https://github.com/kevinfengcs88?tab=repositories)
 
 [![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/wavedash)
 [![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=emu-bot&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/emu-bot)
@@ -48,7 +48,7 @@
   <img width=50px src="https://rtview.com/wp-content/uploads/2016/10/mzl.tfigcody.png">&nbsp;&nbsp;&nbsp;
 </div>
 
-## My Workspace:
+## [My Workspace](https://pcpartpicker.com/list/Q62KXk):
 
 [<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows?r=1)</br>
 [<img height=40 src="https://img.shields.io/badge/Zen%203-Ryzen%205600X-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)</br>
@@ -61,7 +61,7 @@
 
 ---
 
-## 📕 Latest Blog Posts
+## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
 - [Tic-tac-Go: A Gopher’s Approach to the Minimax Algorithm](https://kevinfeng-cs88.medium.com/tic-tac-go-a-gophers-approach-to-the-minimax-algorithm-1cb9433ae3cf?source=rss-952aa1b4a284------2)
