@@ -24,7 +24,7 @@
 [![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=emu-bot&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/emu-bot)
 [![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=neovim-config&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/neovim-config)
 [![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/morse-learner)
+[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=toa-gui&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/toa-gui)
 [![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=MonkeyStock&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/MonkeyStock)
 
 ## Languages and Tools:
