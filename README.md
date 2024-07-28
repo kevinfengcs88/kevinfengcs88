@@ -57,6 +57,7 @@
 [<img height=40 src="https://img.shields.io/badge/ROG%20STRIX-B550--F-%23000000?style=for-the-badge&logo=asus">](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b550-f-gaming-model/)</br>
 [<img height=40 src="https://img.shields.io/badge/Corsair-RM750x-%23ffd900?style=for-the-badge&logo=corsair">](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/RMx-Series/p/CP-9020179-NA)</br>
 [<img height=40 src="https://img.shields.io/badge/WD__Black-SN750 500 GB-%23000000?style=for-the-badge&logo=westerndigital">](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd#WDS250G3X0C)</br>
+[<img height=40 src="https://img.shields.io/badge/WD__Black-SN750 500 GB-%23000000?style=for-the-badge&logo=westerndigital">](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd#WDS250G3X0C)</br>
 [<img height=40 src="https://img.shields.io/badge/BarraCuda-2%20TB-%236EBE49?style=for-the-badge&logo=seagate">](https://www.seagate.com/products/hard-drives/barracuda-hard-drive/)</br>
 
 ---
