@@ -51,7 +51,6 @@
 ## [My Workspace](https://pcpartpicker.com/list/Q62KXk):
 
 [<img height=40 src="https://img.shields.io/badge/Pop!__OS-%230078D6.svg?&style=for-the-badge&logo=Pop!_os&logoColor=white">](https://pop.system76.com/)</br>
-[<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows?r=1)</br>
 [<img height=40 src="https://img.shields.io/badge/Zen%203-Ryzen%205600X-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)</br>
 [<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 16 GB-%23ffd900?style=for-the-badge&logo=corsair">](https://www.corsair.com/us/en/Categories/Products/Memory/Vengeance-PRO-RGB-Black/p/CMW16GX4M2C3200C16)</br>
 [<img height=40 src="https://img.shields.io/badge/RDNA%202-RX%206800-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800)</br>
