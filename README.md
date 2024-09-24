@@ -12,7 +12,7 @@
 :computer: I use Neovim for editing code</br>
 :video_game: I love PC building and gaming</br>
 :shower: Fun fact: I take cold showers</br>
-:mailbox: How to reach me: <a href="mailto:kevinfeng.cs88@gmail.com">kevinfeng.cs88@gmail.com</a>
+:mailbox: How to reach me: <a href="mailto:kevinfengcs88@gmail.com">kevinfengcs88@gmail.com</a>
 
 [![Top Langs](https://github-readme-stats-kevinfengcs88.vercel.app/api/top-langs/?username=kevinfengcs88&theme=discord_old_blurple&layout=compact&hide=html,jupyter%20notebook,css,shell&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfengcs88&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/kevinfengcs88)
