@@ -64,9 +64,9 @@
 ## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
+- [You Cannot Lose What You Do No](https://medium.com/illumination/you-cannot-lose-what-you-do-no-eef7623fd571?source=rss-952aa1b4a284------2)
 - [Your Personal Journal Gets Published to the World](https://medium.com/illumination/your-personal-journal-gets-published-to-the-world-746846798f57?source=rss-952aa1b4a284------2)
 - [I Got Introduced to Stoicism By a Meme](https://medium.com/illumination/i-got-introduced-to-stoicism-by-a-meme-c25238cff0cb?source=rss-952aa1b4a284------2)
 - [Why Are Shoes Not Shaped Like Feet?](https://kevinfengcs88.medium.com/why-are-shoes-not-shaped-like-feet-7f80bebd6c69?source=rss-952aa1b4a284------2)
 - [Tic-tac-Go: A Gopher’s Approach to the Minimax Algorithm](https://kevinfengcs88.medium.com/tic-tac-go-a-gophers-approach-to-the-minimax-algorithm-1cb9433ae3cf?source=rss-952aa1b4a284------2)
-- [Overhauling my Neovim LSP and lazy.nvim configurations](https://kevinfengcs88.medium.com/overhauling-my-neovim-lsp-and-lazy-nvim-configurations-605eaa908b62?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
