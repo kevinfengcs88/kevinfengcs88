@@ -64,9 +64,9 @@
 ## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Revenge is Not Revenge](https://kevinfengcs88.medium.com/the-best-revenge-is-not-revenge-4b3b3ab7e02f?source=rss-952aa1b4a284------2)
 - [Why I Take A Cold Shower Every](https://medium.com/illumination/why-i-take-a-cold-shower-every-9841c0ce77d4?source=rss-952aa1b4a284------2)
 - [You Cannot Lose What You Do No](https://medium.com/illumination/you-cannot-lose-what-you-do-no-eef7623fd571?source=rss-952aa1b4a284------2)
 - [Your Personal Journal Gets Published to the World](https://medium.com/illumination/your-personal-journal-gets-published-to-the-world-746846798f57?source=rss-952aa1b4a284------2)
 - [I Got Introduced to Stoicism By a Meme](https://medium.com/illumination/i-got-introduced-to-stoicism-by-a-meme-c25238cff0cb?source=rss-952aa1b4a284------2)
+- [Why Are Shoes Not Shaped Like Feet?](https://kevinfengcs88.medium.com/why-are-shoes-not-shaped-like-feet-7f80bebd6c69?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
