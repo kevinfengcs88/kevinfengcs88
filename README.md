@@ -64,9 +64,9 @@
 ## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
+- [Revenge Is Not Justified](https://medium.com/illumination/revenge-is-not-justified-9eca85772400?source=rss-952aa1b4a284------2)
 - [9 Marcus Aurelius Quotes To Stop You Wasting Your 20s](https://medium.com/illumination/9-marcus-aurelius-quotes-to-stop-you-wasting-your-20s-e2089b3ccec0?source=rss-952aa1b4a284------2)
 - [The Best Revenge I’ve Ever Gotten](https://medium.com/illumination/the-best-revenge-ive-ever-gotten-3815a7c15423?source=rss-952aa1b4a284------2)
 - [The Best Revenge is Not Revenge](https://kevinfengcs88.medium.com/the-best-revenge-is-not-revenge-4b3b3ab7e02f?source=rss-952aa1b4a284------2)
 - [Why I Take A Cold Shower Every](https://medium.com/illumination/why-i-take-a-cold-shower-every-9841c0ce77d4?source=rss-952aa1b4a284------2)
-- [You Cannot Lose What You Do No](https://medium.com/illumination/you-cannot-lose-what-you-do-no-eef7623fd571?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
