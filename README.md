@@ -64,9 +64,9 @@
 ## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Stop Worrying About the End of the World](https://medium.com/practice-in-public/how-to-stop-worrying-about-the-end-of-the-world-bd20f47855a1?source=rss-952aa1b4a284------2)
 - [Unable to Get Out of Bed? Follow This 5-Step Morning Routine to Vanquish Your Laziness](https://medium.com/practice-in-public/unable-to-get-out-of-bed-follow-this-5-step-morning-routine-to-vanquish-your-laziness-66c7c0026984?source=rss-952aa1b4a284------2)
 - [5 Life-Changing Stoic Principles for When You Lose Hope](https://medium.com/illumination-curated/5-life-changing-stoic-principles-for-when-you-lose-hope-c99e2b971d73?source=rss-952aa1b4a284------2)
 - [The Best Revenge is No Revenge At All](https://medium.com/illuminations-mirror/the-best-revenge-is-no-revenge-at-all-775d17fd6b14?source=rss-952aa1b4a284------2)
 - [Revenge Is Not Justified](https://medium.com/illumination/revenge-is-not-justified-9eca85772400?source=rss-952aa1b4a284------2)
-- [9 Marcus Aurelius Quotes To Stop You Wasting Your 20s](https://medium.com/illumination/9-marcus-aurelius-quotes-to-stop-you-wasting-your-20s-e2089b3ccec0?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
