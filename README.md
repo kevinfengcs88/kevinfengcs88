@@ -64,9 +64,9 @@
 ## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
+- [This Man Held a Yard Sale to Save His Empire. Here’s Why](https://medium.com/illumination/this-man-held-a-yard-sale-to-save-his-empire-heres-why-ad2278598203?source=rss-952aa1b4a284------2)
 - [Think You Keep Yourself In Check? Read These 3 Lessons First](https://medium.com/practice-in-public/think-you-keep-yourself-in-check-read-these-3-lessons-first-6e96be12eb07?source=rss-952aa1b4a284------2)
 - [Breaking My Arm Armwrestling Taught Me This 1 Life Lesson About Enduring Pain](https://medium.com/practice-in-public/breaking-my-arm-armwrestling-taught-me-this-1-life-lesson-about-enduring-pain-889c064f6cfc?source=rss-952aa1b4a284------2)
 - [3 Common Mistakes Beginners Make in Stoicism &lpar;and How to Avoid Them&rpar;](https://medium.com/practice-in-public/3-common-mistakes-beginners-make-in-stoicism-and-how-to-avoid-them-fd594ae578a1?source=rss-952aa1b4a284------2)
 - [How To Stop Worrying About the End of the World](https://medium.com/practice-in-public/how-to-stop-worrying-about-the-end-of-the-world-bd20f47855a1?source=rss-952aa1b4a284------2)
-- [Unable to Get Out of Bed? Follow This 5-Step Morning Routine to Vanquish Your Laziness](https://medium.com/practice-in-public/unable-to-get-out-of-bed-follow-this-5-step-morning-routine-to-vanquish-your-laziness-66c7c0026984?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
