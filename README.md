@@ -64,9 +64,9 @@
 ## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Virtues You Need to Embody as a Stoic to Foster Inner Peace and Create a Meaningful Life](https://medium.com/word-garden/4-virtues-you-need-to-embody-as-a-stoic-to-foster-inner-peace-and-create-a-meaningful-life-561a9c38c7e4?source=rss-952aa1b4a284------2)
 - [3 Life Lessons I Learned From Completing The Hardest Video Game Challenge](https://medium.com/practice-in-public/3-life-lessons-i-learned-from-completing-the-hardest-video-game-challenge-54c2a40eab68?source=rss-952aa1b4a284------2)
 - [This Man Held a Yard Sale to Save His Empire. Here’s Why](https://medium.com/illumination/this-man-held-a-yard-sale-to-save-his-empire-heres-why-ad2278598203?source=rss-952aa1b4a284------2)
 - [Think You Keep Yourself In Check? Read These 3 Lessons First](https://medium.com/practice-in-public/think-you-keep-yourself-in-check-read-these-3-lessons-first-6e96be12eb07?source=rss-952aa1b4a284------2)
 - [Breaking My Arm Armwrestling Taught Me This 1 Life Lesson About Enduring Pain](https://medium.com/practice-in-public/breaking-my-arm-armwrestling-taught-me-this-1-life-lesson-about-enduring-pain-889c064f6cfc?source=rss-952aa1b4a284------2)
-- [3 Common Mistakes Beginners Make in Stoicism &lpar;and How to Avoid Them&rpar;](https://medium.com/practice-in-public/3-common-mistakes-beginners-make-in-stoicism-and-how-to-avoid-them-fd594ae578a1?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
