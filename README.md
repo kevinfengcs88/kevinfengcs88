@@ -64,9 +64,9 @@
 ## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Writing Tips for Aspiring Copywriters: Instantly Make Your Writing Compelling and Lucrative](https://medium.com/word-garden/7-writing-tips-for-aspiring-copywriters-instantly-make-your-writing-compelling-and-lucrative-6fac470a40ed?source=rss-952aa1b4a284------2)
 - [The Only Mental Framework You Need to Stop Overthinking, Start Taking Action, and Master the Art of…](https://medium.com/practice-in-public/the-only-mental-framework-you-need-to-stop-overthinking-start-taking-action-and-master-the-art-of-ae71f0af7e42?source=rss-952aa1b4a284------2)
 - [4 Virtues You Need to Embody as a Stoic to Foster Inner Peace and Create a Meaningful Life](https://medium.com/word-garden/4-virtues-you-need-to-embody-as-a-stoic-to-foster-inner-peace-and-create-a-meaningful-life-561a9c38c7e4?source=rss-952aa1b4a284------2)
 - [3 Life Lessons I Learned From Completing The Hardest Video Game Challenge](https://medium.com/practice-in-public/3-life-lessons-i-learned-from-completing-the-hardest-video-game-challenge-54c2a40eab68?source=rss-952aa1b4a284------2)
 - [This Man Held a Yard Sale to Save His Empire. Here’s Why](https://medium.com/illumination/this-man-held-a-yard-sale-to-save-his-empire-heres-why-ad2278598203?source=rss-952aa1b4a284------2)
-- [Think You Keep Yourself In Check? Read These 3 Lessons First](https://medium.com/practice-in-public/think-you-keep-yourself-in-check-read-these-3-lessons-first-6e96be12eb07?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
