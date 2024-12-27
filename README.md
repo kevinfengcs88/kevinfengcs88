@@ -64,9 +64,9 @@
 ## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Journaling Prompts To Help You Find Direction When You’re Feeling Lost](https://medium.com/illumination/3-journaling-prompts-to-help-you-find-direction-when-youre-feeling-lost-38e03ef56414?source=rss-952aa1b4a284------2)
 - [The Stoic Idea That Will Change How You Face Adversity: The Impediment Is Your Path Forward](https://medium.com/word-garden/the-stoic-idea-that-will-change-how-you-face-adversity-the-impediment-is-your-path-forward-d620d6bd9f74?source=rss-952aa1b4a284------2)
 - [7 Writing Tips for Aspiring Copywriters: Instantly Make Your Writing Compelling and Lucrative](https://medium.com/word-garden/7-writing-tips-for-aspiring-copywriters-instantly-make-your-writing-compelling-and-lucrative-6fac470a40ed?source=rss-952aa1b4a284------2)
 - [The Only Mental Framework You Need to Stop Overthinking, Start Taking Action, and Master the Art of…](https://medium.com/practice-in-public/the-only-mental-framework-you-need-to-stop-overthinking-start-taking-action-and-master-the-art-of-ae71f0af7e42?source=rss-952aa1b4a284------2)
 - [4 Virtues You Need to Embody as a Stoic to Foster Inner Peace and Create a Meaningful Life](https://medium.com/word-garden/4-virtues-you-need-to-embody-as-a-stoic-to-foster-inner-peace-and-create-a-meaningful-life-561a9c38c7e4?source=rss-952aa1b4a284------2)
-- [3 Life Lessons I Learned From Completing The Hardest Video Game Challenge](https://medium.com/practice-in-public/3-life-lessons-i-learned-from-completing-the-hardest-video-game-challenge-54c2a40eab68?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
