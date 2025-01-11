@@ -64,9 +64,9 @@
 ## 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Stoic Idea That Will Make You Stop Wasting Time: There is No Tomorrow](https://medium.com/word-garden/the-stoic-idea-that-will-make-you-stop-wasting-time-there-is-no-tomorrow-4c44246f27dd?source=rss-952aa1b4a284------2)
 - [7 Principles Every Copywriter Needs to Turn Readers Into Relentless Buyers](https://medium.com/illumination/7-principles-every-copywriter-needs-to-turn-readers-into-relentless-buyers-857fad5324dc?source=rss-952aa1b4a284------2)
 - [How I Built Self-Discipline: 5 Daily Habits You Should Practice To Become Unstoppable](https://medium.com/practice-in-public/how-i-built-self-discipline-5-daily-habits-you-should-practice-to-become-unstoppable-43ac85d47883?source=rss-952aa1b4a284------2)
 - [3 Reasons Why You Shouldn’t Make a New Year’s Resolution](https://medium.com/practice-in-public/3-reasons-why-you-shouldnt-make-a-new-year-s-resolution-eebc30cb86d7?source=rss-952aa1b4a284------2)
 - [3 Journaling Prompts To Help You Find Direction When You’re Feeling Lost](https://medium.com/illumination/3-journaling-prompts-to-help-you-find-direction-when-youre-feeling-lost-38e03ef56414?source=rss-952aa1b4a284------2)
-- [The Stoic Idea That Will Change How You Face Adversity: The Impediment Is Your Path Forward](https://medium.com/word-garden/the-stoic-idea-that-will-change-how-you-face-adversity-the-impediment-is-your-path-forward-d620d6bd9f74?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
